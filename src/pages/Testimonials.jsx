@@ -1,4 +1,3 @@
-// File: src/pages/Testimonials.jsx
 import React from 'react'
 import { Container, Typography, Paper, Grid } from '@mui/material'
 

@@ -1,4 +1,3 @@
-// File: src/App.jsx
 import React from 'react'
 import { Outlet, Link } from 'react-router-dom'
 import { AppBar, Toolbar, Typography, Button, Box } from '@mui/material'
